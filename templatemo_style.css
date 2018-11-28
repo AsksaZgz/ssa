@@ -503,3 +503,48 @@ img {
 .text-line-1-6 {
 	line-height: 1.6em;
 }
+
+/* 1811252119 */
+/* .portada:after { */
+	/* background-image : attr(data-image url); */
+	/* content: attr(data-img url); */
+	/* content: url(attr(data-img)); */
+/* } */
+.portada:hover {
+	content: url(images/gallery/attr(x-text));
+}
+
+.portada-evangelio {
+	content: url(images/gallery/evangelio.jpg);
+}
+.portada-evangelio:hover {
+	content: url(images/gallery/evangelio-text.png);
+}
+
+.portada-reflexion {
+	content: url(images/gallery/adviento.png);
+}
+.portada-reflexion:hover {
+	content: url(images/gallery/reflexion-text.png);
+}
+
+.portada-catequesis {
+	content: url(images/gallery/catequesis.jpg);
+}
+.portada-catequesis:hover {
+	content: url(images/gallery/catequesis-text.png);
+}
+
+.portada-bautizos {
+	content: url(images/gallery/bautizos.jpg);
+}
+.portada-bautizos:hover {
+	content: url(images/gallery/bautizos-text.png);
+}
+
+.portada-rosario {
+	content: url(images/gallery/rosario.jpg);
+}
+.portada-rosario: hover {
+	content: url(images/gallery/rosario-text.png);
+}

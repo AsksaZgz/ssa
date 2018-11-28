@@ -505,14 +505,15 @@ img {
 }
 
 /* 1811252119 */
-/* .portada:after { */
+.portada {
 	/* background-image : attr(data-image url); */
-	/* content: attr(data-img url); */
+	/* content: "(" attr( data-image) ")"; */
+	/* content: attr(data-image, url); */
 	/* content: url(attr(data-img)); */
-/* } */
-.portada:hover {
-	content: url(images/gallery/attr(x-text));
 }
+/* .portada:hover { */
+	/* content: url(images/gallery/attr(x-text)); */
+/* } */
 
 .portada-evangelio {
 	content: url(images/gallery/evangelio.jpg);

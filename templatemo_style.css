@@ -546,6 +546,36 @@ img {
 .portada-rosario {
 	content: url(images/gallery/rosario.jpg);
 }
-.portada-rosario: hover {
+.portada-rosario:hover {
 	content: url(images/gallery/rosario-text.png);
+}
+
+.portada-matrimonios {
+	content: url(images/gallery/matrimonios.jpg);
+}
+.portada-matrimonios:hover {
+	content: url(images/gallery/matrimonios-text.png);
+}
+
+.portada-navidad {
+	content: url(images/gallery/belen.png);
+}
+.portada-navidad:hover {
+	content: url(images/gallery/navidad-text.png);
+}
+
+
+.portada-franciscanismo {
+	content: url(images/gallery/francisco.png);
+}
+.portada-franciscanismo:hover {
+	content: url(images/gallery/franciscanismo-text.png);
+}
+
+
+.portada-galeria {
+	content: url(images/gallery/santuario.png);
+}
+.portada-galeria:hover {
+	content: url(images/gallery/galeria-text.png);
 }

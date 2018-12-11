@@ -551,7 +551,7 @@ img {
 }
 
 .portada-matrimonios {
-	content: url(images/gallery/matrimonios.jpg);
+	content: url(images/gallery/matrimonios.png);
 }
 .portada-matrimonios:hover {
 	content: url(images/gallery/matrimonios-text.png);

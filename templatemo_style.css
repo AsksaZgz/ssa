@@ -515,6 +515,12 @@ img {
 	/* content: url(images/gallery/attr(x-text)); */
 /* } */
 
+.portada-agenda {
+	content: url(images/gallery/evangelio.jpg);
+}
+.portada-agenda:hover {
+	content: url(images/gallery/agenda-text.png);
+}
 .portada-evangelio {
 	content: url(images/gallery/evangelio.jpg);
 }

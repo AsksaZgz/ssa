@@ -543,7 +543,7 @@ img {
 }
 
 .portada-reflexion {
-	content: url(images/gallery/adviento.png);
+	content: url(images/gallery/cuaresma.png);
 }
 .portada-reflexion:hover {
 	content: url(images/gallery/reflexion-text.png);

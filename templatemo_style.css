@@ -469,6 +469,7 @@ img {
 	font-size: 11px;
 }
 
+
 /* 0.0.1 - Parroquia de San Antonio - Web - 1811252119 */
 .sidebar_box span.eucaristia {
 	background: url(images/gallery/eucaristia60.png);
@@ -514,6 +515,17 @@ img {
 /* .portada:hover { */
 	/* content: url(images/gallery/attr(x-text)); */
 /* } */
+
+/* 1904081513 */
+.portada-evento3 {
+	content: url('https://docs.google.com/drawings/d/e/2PACX-1vRsU3dDMdgJTG-i82wc70Ca0fHKr0oCMqTBb3TefBYLpD_i536X2vceIEAOh3ZZgWaK9Fy6mKQrOlrU/pub?w=140&h=140');
+}
+/* 1904081513 */
+.portada-evento3:hover {
+	content: url('https://docs.google.com/drawings/d/e/2PACX-1vQzM8GIGwMojRkuMXMeBh5CAWK6ohJ_kkcl-wdgeUQW2X_C__BG83llB8kjx6imNc-aFb4r-QLkzazu/pub?w=140&h=140');
+}
+
+
 
 .portada-agenda {
 	content: url(images/gallery/evangelio.jpg);
